@@ -42,7 +42,7 @@ const Home = () => {
       <Head>
         <title>Blog App</title>
       </Head>
-      <h1>Blog</h1>
+      <h1>Enter Blogs Below</h1>
       {notification}
       {!loggedIn ? (
         <div>
